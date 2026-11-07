@@ -1,0 +1,40 @@
+{
+  "inputs": {
+    "survey": {
+      "equal": true,
+      "rows": 2400
+    },
+    "eye": {
+      "equal": true,
+      "rows": 21312
+    },
+    "cues": {
+      "equal": true,
+      "rows": 40
+    }
+  },
+  "outputs": {
+    "pooled_paired.csv": {
+      "equal_within_tolerance": true,
+      "rows": 49,
+      "max_absolute_difference": 0.0
+    },
+    "descriptives.csv": {
+      "equal_within_tolerance": true,
+      "rows": 90,
+      "max_absolute_difference": 0.0
+    },
+    "participant_models_all.csv": {
+      "equal_within_tolerance": true,
+      "rows": 135,
+      "max_absolute_difference": 0.0
+    }
+  },
+  "absolute_tolerance": 1e-10,
+  "relative_tolerance": 1e-08,
+  "scope": "Retained XLSX exports plus explicit existing condition coding and participant membership to revision survey/eye numeric outputs. Original recording-quality selection and original Quest processing are not verified by this comparison.",
+  "warnings": [
+    "boundary (singular) fit: see help('isSingular')",
+    "boundary (singular) fit: see help('isSingular')"
+  ]
+}

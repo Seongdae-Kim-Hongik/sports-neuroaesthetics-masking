@@ -1,8 +1,21 @@
 {
-  "title": "Sports Neuroaesthetics: Masking Effects on Athlete Perception Across Behavior Groups (Multimodal Survey, fNIRS, and Eye-Tracking)",
+  "title": "Facial-Cue Removal and Spectators’ Emotional and Aesthetic Experience in Sport: R1 analysis code and material inventory",
   "upload_type": "software",
   "access_right": "open",
   "license": "MIT",
-  "keywords": ["sports neuroaesthetics", "neuroaesthetics", "masking", "fNIRS", "eye-tracking", "Bayesian analysis", "multimodal", "prefrontal cortex", "athlete perception"],
-  "creators": [{"name": "Kim, Seongdae", "affiliation": "Hongik University"}]
+  "creators": [
+    {
+      "name": "Kim, Seongdae",
+      "affiliation": "Hongik University"
+    }
+  ],
+  "keywords": [
+    "sports neuroaesthetics",
+    "facial occlusion",
+    "eye-tracking",
+    "fNIRS",
+    "questionnaire",
+    "revision analysis"
+  ],
+  "description": "Preparation version of survey/eye revision analysis code, aggregate results, and a stimulus asset inventory for manuscript 1960815. No raw participant observations or stimulus image binaries are included. The preserved B-task inventory contains 12 assets (six scene pairs), while the manuscript describes 12 base images each in two versions; reconciliation and source/redistribution material are pending. Archived fNIRS tables are not new original-Quest sensitivity results. MIT applies to software; photographs require separate applicable terms. This metadata file does not assert that a Zenodo record has been published."
 }

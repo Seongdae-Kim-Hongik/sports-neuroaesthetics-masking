@@ -1,0 +1,14 @@
+boundary (singular) fit: see help('isSingular')
+boundary (singular) fit: see help('isSingular')
+# A tibble: 8 × 11
+  Modality Metric       N MeanStandard MeanFaceless Difference    Lower    Upper
+  <chr>    <chr>    <int>        <dbl>        <dbl>      <dbl>    <dbl>    <dbl>
+1 survey   Emotion     40         4.42         2.24    -2.19    -2.48    -1.90  
+2 survey   Livelin…    40         4.40         3.31    -1.08    -1.35    -0.812 
+3 survey   Excitem…    40         3.41         2.04    -1.37    -1.69    -1.05  
+4 survey   Immersi…    40         4.07         2.53    -1.54    -1.83    -1.24  
+5 survey   Attract…    40         3.52         2.69    -0.825   -1.12    -0.525 
+6 eye      Average…    37       299.         248.     -51.8    -82.8    -20.9   
+7 eye      Number_…    37        24.1         27.0      2.83     1.79     3.87  
+8 eye      Average…    37         3.50         3.55     0.0471   0.0221   0.0721
+# ℹ 3 more variables: p <dbl>, dz <dbl>, pFDR <dbl>

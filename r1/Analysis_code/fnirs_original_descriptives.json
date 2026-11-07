@@ -1,0 +1,1074 @@
+[
+  {
+    "ROI": "Left DLPFC",
+    "kind": "condition",
+    "cells": [
+      "NOMASKING",
+      "37",
+      "-0.002",
+      "0.051",
+      "0.008",
+      "0.015",
+      "-0.018"
+    ]
+  },
+  {
+    "ROI": "Left DLPFC",
+    "kind": "condition",
+    "cells": [
+      "MASKING",
+      "37",
+      "0.003",
+      "0.057",
+      "0.009",
+      "0.021",
+      "-0.016"
+    ]
+  },
+  {
+    "ROI": "Left DLPFC",
+    "kind": "group_condition",
+    "cells": [
+      "A",
+      "NOMASKING",
+      "13",
+      "0.004",
+      "0.035",
+      "0.010",
+      "0.023",
+      "-0.015"
+    ]
+  },
+  {
+    "ROI": "Left DLPFC",
+    "kind": "group_condition",
+    "cells": [
+      "MASKING",
+      "13",
+      "0.013",
+      "0.044",
+      "0.012",
+      "0.038",
+      "-0.011"
+    ]
+  },
+  {
+    "ROI": "Left DLPFC",
+    "kind": "group_condition",
+    "cells": [
+      "B",
+      "NOMASKING",
+      "9",
+      "0.011",
+      "0.045",
+      "0.015",
+      "0.041",
+      "-0.018"
+    ]
+  },
+  {
+    "ROI": "Left DLPFC",
+    "kind": "group_condition",
+    "cells": [
+      "MASKING",
+      "9",
+      "0.009",
+      "0.049",
+      "0.016",
+      "0.042",
+      "-0.023"
+    ]
+  },
+  {
+    "ROI": "Left DLPFC",
+    "kind": "group_condition",
+    "cells": [
+      "C",
+      "NOMASKING",
+      "10",
+      "-0.008",
+      "0.040",
+      "0.013",
+      "0.017",
+      "-0.033"
+    ]
+  },
+  {
+    "ROI": "Left DLPFC",
+    "kind": "group_condition",
+    "cells": [
+      "MASKING",
+      "10",
+      "-0.004",
+      "0.026",
+      "0.008",
+      "0.012",
+      "-0.021"
+    ]
+  },
+  {
+    "ROI": "Left DLPFC",
+    "kind": "group_condition",
+    "cells": [
+      "D",
+      "NOMASKING",
+      "5",
+      "-0.026",
+      "0.102",
+      "0.046",
+      "0.063",
+      "-0.116"
+    ]
+  },
+  {
+    "ROI": "Left DLPFC",
+    "kind": "group_condition",
+    "cells": [
+      "MASKING",
+      "5",
+      "-0.024",
+      "0.124",
+      "0.055",
+      "0.084",
+      "-0.133"
+    ]
+  },
+  {
+    "ROI": "Right DLPFC",
+    "kind": "condition",
+    "cells": [
+      "NOMASKING",
+      "38",
+      "0.006",
+      "0.056",
+      "0.009",
+      "0.024",
+      "-0.012"
+    ]
+  },
+  {
+    "ROI": "Right DLPFC",
+    "kind": "condition",
+    "cells": [
+      "MASKING",
+      "38",
+      "0.013",
+      "0.074",
+      "0.012",
+      "0.037",
+      "-0.010"
+    ]
+  },
+  {
+    "ROI": "Right DLPFC",
+    "kind": "group_condition",
+    "cells": [
+      "A",
+      "NOMASKING",
+      "15",
+      "0.008",
+      "0.059",
+      "0.015",
+      "0.037",
+      "-0.022"
+    ]
+  },
+  {
+    "ROI": "Right DLPFC",
+    "kind": "group_condition",
+    "cells": [
+      "MASKING",
+      "15",
+      "0.014",
+      "0.086",
+      "0.022",
+      "0.057",
+      "-0.030"
+    ]
+  },
+  {
+    "ROI": "Right DLPFC",
+    "kind": "group_condition",
+    "cells": [
+      "B",
+      "NOMASKING",
+      "7",
+      "0.026",
+      "0.071",
+      "0.027",
+      "0.078",
+      "-0.026"
+    ]
+  },
+  {
+    "ROI": "Right DLPFC",
+    "kind": "group_condition",
+    "cells": [
+      "MASKING",
+      "7",
+      "0.041",
+      "0.032",
+      "0.012",
+      "0.064",
+      "0.017"
+    ]
+  },
+  {
+    "ROI": "Right DLPFC",
+    "kind": "group_condition",
+    "cells": [
+      "C",
+      "NOMASKING",
+      "11",
+      "0.009",
+      "0.042",
+      "0.013",
+      "0.034",
+      "-0.016"
+    ]
+  },
+  {
+    "ROI": "Right DLPFC",
+    "kind": "group_condition",
+    "cells": [
+      "MASKING",
+      "11",
+      "0.023",
+      "0.045",
+      "0.013",
+      "0.049",
+      "-0.004"
+    ]
+  },
+  {
+    "ROI": "Right DLPFC",
+    "kind": "group_condition",
+    "cells": [
+      "D",
+      "NOMASKING",
+      "5",
+      "-0.031",
+      "0.054",
+      "0.024",
+      "0.016",
+      "-0.079"
+    ]
+  },
+  {
+    "ROI": "Right DLPFC",
+    "kind": "group_condition",
+    "cells": [
+      "MASKING",
+      "5",
+      "-0.046",
+      "0.113",
+      "0.051",
+      "0.053",
+      "-0.145"
+    ]
+  },
+  {
+    "ROI": "Left FPC",
+    "kind": "condition",
+    "cells": [
+      "NOMASKING",
+      "37",
+      "0.021",
+      "0.046",
+      "0.008",
+      "0.036",
+      "0.006"
+    ]
+  },
+  {
+    "ROI": "Left FPC",
+    "kind": "condition",
+    "cells": [
+      "MASKING",
+      "37",
+      "0.016",
+      "0.055",
+      "0.009",
+      "0.033",
+      "-0.002"
+    ]
+  },
+  {
+    "ROI": "Left FPC",
+    "kind": "group_condition",
+    "cells": [
+      "A",
+      "NOMASKING",
+      "14",
+      "0.017",
+      "0.045",
+      "0.012",
+      "0.041",
+      "-0.007"
+    ]
+  },
+  {
+    "ROI": "Left FPC",
+    "kind": "group_condition",
+    "cells": [
+      "MASKING",
+      "14",
+      "0.012",
+      "0.055",
+      "0.015",
+      "0.041",
+      "-0.017"
+    ]
+  },
+  {
+    "ROI": "Left FPC",
+    "kind": "group_condition",
+    "cells": [
+      "B",
+      "NOMASKING",
+      "7",
+      "0.011",
+      "0.055",
+      "0.021",
+      "0.052",
+      "-0.030"
+    ]
+  },
+  {
+    "ROI": "Left FPC",
+    "kind": "group_condition",
+    "cells": [
+      "MASKING",
+      "7",
+      "0.015",
+      "0.039",
+      "0.015",
+      "0.044",
+      "-0.014"
+    ]
+  },
+  {
+    "ROI": "Left FPC",
+    "kind": "group_condition",
+    "cells": [
+      "C",
+      "NOMASKING",
+      "11",
+      "0.030",
+      "0.035",
+      "0.011",
+      "0.051",
+      "0.009"
+    ]
+  },
+  {
+    "ROI": "Left FPC",
+    "kind": "group_condition",
+    "cells": [
+      "MASKING",
+      "11",
+      "0.027",
+      "0.055",
+      "0.017",
+      "0.059",
+      "-0.006"
+    ]
+  },
+  {
+    "ROI": "Left FPC",
+    "kind": "group_condition",
+    "cells": [
+      "D",
+      "NOMASKING",
+      "5",
+      "0.029",
+      "0.067",
+      "0.030",
+      "0.088",
+      "-0.030"
+    ]
+  },
+  {
+    "ROI": "Left FPC",
+    "kind": "group_condition",
+    "cells": [
+      "MASKING",
+      "5",
+      "0.003",
+      "0.084",
+      "0.038",
+      "0.077",
+      "-0.070"
+    ]
+  },
+  {
+    "ROI": "Right FPC",
+    "kind": "condition",
+    "cells": [
+      "NOMASKING",
+      "37",
+      "0.005",
+      "0.039",
+      "0.006",
+      "0.017",
+      "-0.008"
+    ]
+  },
+  {
+    "ROI": "Right FPC",
+    "kind": "condition",
+    "cells": [
+      "MASKING",
+      "37",
+      "0.008",
+      "0.047",
+      "0.008",
+      "0.024",
+      "-0.007"
+    ]
+  },
+  {
+    "ROI": "Right FPC",
+    "kind": "group_condition",
+    "cells": [
+      "A",
+      "NOMASKING",
+      "14",
+      "-0.003",
+      "0.044",
+      "0.012",
+      "0.020",
+      "-0.026"
+    ]
+  },
+  {
+    "ROI": "Right FPC",
+    "kind": "group_condition",
+    "cells": [
+      "MASKING",
+      "14",
+      "-0.009",
+      "0.051",
+      "0.014",
+      "0.017",
+      "-0.036"
+    ]
+  },
+  {
+    "ROI": "Right FPC",
+    "kind": "group_condition",
+    "cells": [
+      "B",
+      "NOMASKING",
+      "7",
+      "0.006",
+      "0.048",
+      "0.018",
+      "0.042",
+      "-0.029"
+    ]
+  },
+  {
+    "ROI": "Right FPC",
+    "kind": "group_condition",
+    "cells": [
+      "MASKING",
+      "7",
+      "0.024",
+      "0.042",
+      "0.016",
+      "0.055",
+      "-0.007"
+    ]
+  },
+  {
+    "ROI": "Right FPC",
+    "kind": "group_condition",
+    "cells": [
+      "C",
+      "NOMASKING",
+      "11",
+      "0.009",
+      "0.034",
+      "0.010",
+      "0.029",
+      "-0.011"
+    ]
+  },
+  {
+    "ROI": "Right FPC",
+    "kind": "group_condition",
+    "cells": [
+      "MASKING",
+      "11",
+      "0.027",
+      "0.043",
+      "0.013",
+      "0.052",
+      "0.001"
+    ]
+  },
+  {
+    "ROI": "Right FPC",
+    "kind": "group_condition",
+    "cells": [
+      "D",
+      "NOMASKING",
+      "5",
+      "0.015",
+      "0.025",
+      "0.011",
+      "0.037",
+      "-0.007"
+    ]
+  },
+  {
+    "ROI": "Right FPC",
+    "kind": "group_condition",
+    "cells": [
+      "MASKING",
+      "5",
+      "-0.003",
+      "0.043",
+      "0.019",
+      "0.035",
+      "-0.040"
+    ]
+  },
+  {
+    "ROI": "Left VLPFC",
+    "kind": "condition",
+    "cells": [
+      "NOMASKING",
+      "37",
+      "-0.004",
+      "0.075",
+      "0.012",
+      "0.020",
+      "-0.029"
+    ]
+  },
+  {
+    "ROI": "Left VLPFC",
+    "kind": "condition",
+    "cells": [
+      "MASKING",
+      "37",
+      "0.004",
+      "0.058",
+      "0.010",
+      "0.023",
+      "-0.015"
+    ]
+  },
+  {
+    "ROI": "Left VLPFC",
+    "kind": "group_condition",
+    "cells": [
+      "A",
+      "NOMASKING",
+      "15",
+      "-3.526×10-4",
+      "0.043",
+      "0.011",
+      "0.021",
+      "-0.022"
+    ]
+  },
+  {
+    "ROI": "Left VLPFC",
+    "kind": "group_condition",
+    "cells": [
+      "MASKING",
+      "15",
+      "0.006",
+      "0.048",
+      "0.012",
+      "0.030",
+      "-0.019"
+    ]
+  },
+  {
+    "ROI": "Left VLPFC",
+    "kind": "group_condition",
+    "cells": [
+      "B",
+      "NOMASKING",
+      "8",
+      "-0.011",
+      "0.058",
+      "0.021",
+      "0.029",
+      "-0.052"
+    ]
+  },
+  {
+    "ROI": "Left VLPFC",
+    "kind": "group_condition",
+    "cells": [
+      "MASKING",
+      "8",
+      "-0.010",
+      "0.054",
+      "0.019",
+      "0.027",
+      "-0.047"
+    ]
+  },
+  {
+    "ROI": "Left VLPFC",
+    "kind": "group_condition",
+    "cells": [
+      "C",
+      "NOMASKING",
+      "9",
+      "-0.017",
+      "0.083",
+      "0.028",
+      "0.037",
+      "-0.071"
+    ]
+  },
+  {
+    "ROI": "Left VLPFC",
+    "kind": "group_condition",
+    "cells": [
+      "MASKING",
+      "9",
+      "0.019",
+      "0.033",
+      "0.011",
+      "0.041",
+      "-0.002"
+    ]
+  },
+  {
+    "ROI": "Left VLPFC",
+    "kind": "group_condition",
+    "cells": [
+      "D",
+      "NOMASKING",
+      "5",
+      "0.019",
+      "0.154",
+      "0.069",
+      "0.154",
+      "-0.116"
+    ]
+  },
+  {
+    "ROI": "Left VLPFC",
+    "kind": "group_condition",
+    "cells": [
+      "MASKING",
+      "5",
+      "-0.008",
+      "0.119",
+      "0.053",
+      "0.096",
+      "-0.113"
+    ]
+  },
+  {
+    "ROI": "Right VLPFC",
+    "kind": "condition",
+    "cells": [
+      "NOMASKING",
+      "38",
+      "-0.012",
+      "0.059",
+      "0.010",
+      "0.007",
+      "-0.030"
+    ]
+  },
+  {
+    "ROI": "Right VLPFC",
+    "kind": "condition",
+    "cells": [
+      "MASKING",
+      "38",
+      "-0.008",
+      "0.073",
+      "0.012",
+      "0.015",
+      "-0.031"
+    ]
+  },
+  {
+    "ROI": "Right VLPFC",
+    "kind": "group_condition",
+    "cells": [
+      "A",
+      "NOMASKING",
+      "14",
+      "-0.013",
+      "0.056",
+      "0.015",
+      "0.016",
+      "-0.042"
+    ]
+  },
+  {
+    "ROI": "Right VLPFC",
+    "kind": "group_condition",
+    "cells": [
+      "MASKING",
+      "14",
+      "-0.019",
+      "0.074",
+      "0.020",
+      "0.019",
+      "-0.058"
+    ]
+  },
+  {
+    "ROI": "Right VLPFC",
+    "kind": "group_condition",
+    "cells": [
+      "B",
+      "NOMASKING",
+      "8",
+      "0.002",
+      "0.045",
+      "0.016",
+      "0.033",
+      "-0.028"
+    ]
+  },
+  {
+    "ROI": "Right VLPFC",
+    "kind": "group_condition",
+    "cells": [
+      "MASKING",
+      "8",
+      "0.013",
+      "0.048",
+      "0.017",
+      "0.046",
+      "-0.020"
+    ]
+  },
+  {
+    "ROI": "Right VLPFC",
+    "kind": "group_condition",
+    "cells": [
+      "C",
+      "NOMASKING",
+      "11",
+      "0.008",
+      "0.030",
+      "0.009",
+      "0.026",
+      "-0.009"
+    ]
+  },
+  {
+    "ROI": "Right VLPFC",
+    "kind": "group_condition",
+    "cells": [
+      "MASKING",
+      "11",
+      "0.028",
+      "0.035",
+      "0.010",
+      "0.048",
+      "0.007"
+    ]
+  },
+  {
+    "ROI": "Right VLPFC",
+    "kind": "group_condition",
+    "cells": [
+      "D",
+      "NOMASKING",
+      "5",
+      "-0.075",
+      "0.098",
+      "0.044",
+      "0.011",
+      "-0.161"
+    ]
+  },
+  {
+    "ROI": "Right VLPFC",
+    "kind": "group_condition",
+    "cells": [
+      "MASKING",
+      "5",
+      "-0.090",
+      "0.104",
+      "0.047",
+      "0.002",
+      "-0.181"
+    ]
+  },
+  {
+    "ROI": "Left OFC",
+    "kind": "condition",
+    "cells": [
+      "NOMASKING",
+      "36",
+      "0.007",
+      "0.028",
+      "0.005",
+      "0.017",
+      "-0.002"
+    ]
+  },
+  {
+    "ROI": "Left OFC",
+    "kind": "condition",
+    "cells": [
+      "MASKING",
+      "36",
+      "0.010",
+      "0.037",
+      "0.006",
+      "0.022",
+      "-0.002"
+    ]
+  },
+  {
+    "ROI": "Left OFC",
+    "kind": "group_condition",
+    "cells": [
+      "A",
+      "NOMASKING",
+      "14",
+      "0.009",
+      "0.029",
+      "0.008",
+      "0.024",
+      "-0.006"
+    ]
+  },
+  {
+    "ROI": "Left OFC",
+    "kind": "group_condition",
+    "cells": [
+      "MASKING",
+      "14",
+      "0.011",
+      "0.042",
+      "0.011",
+      "0.033",
+      "-0.010"
+    ]
+  },
+  {
+    "ROI": "Left OFC",
+    "kind": "group_condition",
+    "cells": [
+      "B",
+      "NOMASKING",
+      "6",
+      "0.016",
+      "0.016",
+      "0.007",
+      "0.029",
+      "0.003"
+    ]
+  },
+  {
+    "ROI": "Left OFC",
+    "kind": "group_condition",
+    "cells": [
+      "MASKING",
+      "6",
+      "0.019",
+      "0.014",
+      "0.006",
+      "0.031",
+      "0.008"
+    ]
+  },
+  {
+    "ROI": "Left OFC",
+    "kind": "group_condition",
+    "cells": [
+      "C",
+      "NOMASKING",
+      "11",
+      "0.007",
+      "0.031",
+      "0.009",
+      "0.025",
+      "-0.011"
+    ]
+  },
+  {
+    "ROI": "Left OFC",
+    "kind": "group_condition",
+    "cells": [
+      "MASKING",
+      "11",
+      "0.018",
+      "0.033",
+      "0.010",
+      "0.037",
+      "-0.002"
+    ]
+  },
+  {
+    "ROI": "Left OFC",
+    "kind": "group_condition",
+    "cells": [
+      "D",
+      "NOMASKING",
+      "5",
+      "-0.007",
+      "0.034",
+      "0.015",
+      "0.023",
+      "-0.037"
+    ]
+  },
+  {
+    "ROI": "Left OFC",
+    "kind": "group_condition",
+    "cells": [
+      "MASKING",
+      "5",
+      "-0.023",
+      "0.045",
+      "0.020",
+      "0.017",
+      "-0.062"
+    ]
+  },
+  {
+    "ROI": "Right OFC",
+    "kind": "condition",
+    "cells": [
+      "NOMASKING",
+      "36",
+      "0.007",
+      "0.028",
+      "0.005",
+      "0.017",
+      "-0.002"
+    ]
+  },
+  {
+    "ROI": "Right OFC",
+    "kind": "condition",
+    "cells": [
+      "MASKING",
+      "36",
+      "0.010",
+      "0.037",
+      "0.006",
+      "0.022",
+      "-0.002"
+    ]
+  },
+  {
+    "ROI": "Right OFC",
+    "kind": "group_condition",
+    "cells": [
+      "A",
+      "NOMASKING",
+      "14",
+      "0.009",
+      "0.029",
+      "0.008",
+      "0.024",
+      "-0.006"
+    ]
+  },
+  {
+    "ROI": "Right OFC",
+    "kind": "group_condition",
+    "cells": [
+      "MASKING",
+      "14",
+      "0.011",
+      "0.042",
+      "0.011",
+      "0.033",
+      "-0.010"
+    ]
+  },
+  {
+    "ROI": "Right OFC",
+    "kind": "group_condition",
+    "cells": [
+      "B",
+      "NOMASKING",
+      "6",
+      "0.016",
+      "0.016",
+      "0.007",
+      "0.029",
+      "0.003"
+    ]
+  },
+  {
+    "ROI": "Right OFC",
+    "kind": "group_condition",
+    "cells": [
+      "MASKING",
+      "6",
+      "0.019",
+      "0.014",
+      "0.006",
+      "0.031",
+      "0.008"
+    ]
+  },
+  {
+    "ROI": "Right OFC",
+    "kind": "group_condition",
+    "cells": [
+      "C",
+      "NOMASKING",
+      "11",
+      "0.007",
+      "0.031",
+      "0.009",
+      "0.025",
+      "-0.011"
+    ]
+  },
+  {
+    "ROI": "Right OFC",
+    "kind": "group_condition",
+    "cells": [
+      "MASKING",
+      "11",
+      "0.018",
+      "0.033",
+      "0.010",
+      "0.037",
+      "-0.002"
+    ]
+  },
+  {
+    "ROI": "Right OFC",
+    "kind": "group_condition",
+    "cells": [
+      "D",
+      "NOMASKING",
+      "5",
+      "-0.007",
+      "0.034",
+      "0.015",
+      "0.023",
+      "-0.037"
+    ]
+  },
+  {
+    "ROI": "Right OFC",
+    "kind": "group_condition",
+    "cells": [
+      "MASKING",
+      "5",
+      "-0.023",
+      "0.045",
+      "0.020",
+      "0.017",
+      "-0.062"
+    ]
+  }
+]

@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "This is an unreleased R1 preparation version. Use the final archived record when available."
+type: software
+title: "Facial-Cue Removal in Sport: R1 Analysis Code and Material Inventory"
+authors:
+  - family-names: "Kim"
+    given-names: "Seongdae"
+    affiliation: "Hongik University"
+license: MIT
+version: "R1-preparation"
+repository-code: "https://github.com/Seongdae-Kim-Hongik/sports-neuroaesthetics-masking"

@@ -1,30 +1,23 @@
-# Sports Neuroaesthetics: Masking Effects on Athlete Perception Across Behavior Groups
+# Facial-cue removal in sport images — R1 preparation
 
-Analysis code for a **sports-neuroaesthetics** study of how masking influences the
-perception of athletes, across four behavior groups (defined by spectating and
-playing experience), combining self-report ratings, prefrontal-cortex activation
-(fNIRS), and eye-tracking. Analyses use mixed-effects models and hierarchical
-Bayesian correlation.
+Research manuscript: **Facial-Cue Removal and Spectators’ Emotional and Aesthetic Experience in Sport: A Cognitive Neurophysiological Perspective**, Frontiers in Human Neuroscience, manuscript 1960815.
 
-## Scripts
+Paper authors: Jaeho Lee, Jaechang Cha, Chunghun Ha, Yooneun Lee, Seungbeom Kim, and Seongdae Kim.
 
-| File | Purpose |
-|------|---------|
-| [`01_survey_factor_anova.R`](01_survey_factor_anova.R) | Five perceptual factors (Performance, Experience, Confidence, Attractiveness, Likability) under masked vs. non-masked stimuli; behavior-group x masking mixed-model ANOVA and judgement-basis frequencies (N = 43). |
-| [`02_eyetracker_anova.R`](02_eyetracker_anova.R) | Behavior-group x masking mixed ANOVA across all eye-tracking metrics, with FDR correction across metrics and Bonferroni post-hoc contrasts (full sample, no metric pre-selection). |
-| [`03_multimodal_bayesian.R`](03_multimodal_bayesian.R) | Survey + fNIRS + eye-tracking merge; hierarchical Bayesian correlation (`BayesFactor::correlationBF`) within behavior-group x masking cells, with example visualisations. |
+This branch prepares the R1 research materials. It is not a completed public deposit. No DOI or published GitHub release is claimed.
 
-## Data
+## Current analysis
 
-The scripts read Excel files (survey, fNIRS, eye-tracking) from a `data/` folder.
-Raw data are not included here as they contain human-subjects information; they are
-available from the authors on reasonable request.
+Use [r1/Analysis_code/README.md](r1/Analysis_code/README.md). This includes input preparation from the retained private XLSX exports, explicit existing coding/sample decisions, R survey/eye analysis, environment information, aggregate results and a reproduction record. Five outcomes are Emotion, Liveliness, Excitement, Immersion and Attractiveness. Ratings concern the athletes depicted in the images; the two final cue questions concern the overall B task and were administered as single-choice questions, as confirmed by the investigator.
 
-## Requirements
+The retained-input rerun reproduced the survey and eye result tables. Raw participant observations, identity crosswalks and private source workbooks are not included. Historical acquisition-quality exclusions are not independently verified by reproducing the retained sample. Two exploratory singular-fit warnings are retained.
 
-R (>= 4.1) with: `readxl`, `tidyverse`, `lme4`, `lmerTest`, `emmeans`,
-`BayesFactor`, `ggdist`, `patchwork`.
+Archived fNIRS tables are transcriptions from Quest output. The original Quest project, substitution frequencies and matching ON/OFF outputs have not been recovered; these are not claimed as reproduced results. The earlier Bayesian correlation analysis has been removed from the revised manuscript. Files under `legacy/` are historical and are not the current analysis.
 
-## License
+## Stimulus materials
 
-MIT — see [`LICENSE`](LICENSE).
+See [r1/stimuli/README.md](r1/stimuli/README.md) for the recovered 12-asset/six-pair inventory and its distinction from the manuscript's 12-base-image/24-version description. Photographs and per-image source/redistribution documentation are pending from the author. No complete stimulus-set release is claimed.
+
+## License and citation
+
+The existing MIT software license is retained. It does not license third-party photographs. `CITATION.cff` provides software attribution; the paper authors are identified above. `.zenodo.json` is preparation metadata only and does not mean a deposit has been created or published.
