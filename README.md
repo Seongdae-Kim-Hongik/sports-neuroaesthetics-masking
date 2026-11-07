@@ -1,10 +1,10 @@
-# Facial-cue removal in sport images — R1 preparation
+# Facial-cue removal in sport images — R1 code and stimuli
 
 Research manuscript: **Facial-Cue Removal and Spectators’ Emotional and Aesthetic Experience in Sport: A Cognitive Neurophysiological Perspective**, Frontiers in Human Neuroscience, manuscript 1960815.
 
 Paper authors: Jaeho Lee, Jaechang Cha, Chunghun Ha, Yooneun Lee, Seungbeom Kim, and Seongdae Kim.
 
-This branch prepares the R1 research materials. It is not a completed public deposit. No DOI or published GitHub release is claimed.
+This repository provides R1 survey/eye analysis code, aggregate results, and 24 stimulus image files (12 Standard–Faceless pairs). It is a research-material release, not a claim that all revision requests or original Quest-processing checks have been completed. The Zenodo DOI will be linked after automatic archival is verified.
 
 ## Current analysis
 
@@ -18,8 +18,8 @@ Archived fNIRS tables are transcriptions from Quest output. The original Quest p
 
 The author-supplied archive now contains **24 image files / 12 distinct Standard–Faceless pairs**, matching the manuscript's stated image count. See [r1/stimuli/README.md](r1/stimuli/README.md) and the filename/hash manifest. Twelve JPEG files match the historical B-task project exactly; the twelve additional PNG files are retained as newly supplied material. This does not independently verify their historical presentation order or project linkage.
 
-Images are stored in this **private repository** at the author's request. Access requires corresponding-author approval and compliance with applicable image rights. The Zenodo package is prepared for **restricted file access**; metadata and DOI will be public if it is published. No automatic embargo expiry or public image release is intended. Source/rights documents remain unverified.
+The corresponding author authorized **public access** and confirmed authority to release all 24 images under **CC BY 4.0**. No request or corresponding-author approval is required to download the released materials. Original photographic source URLs and credits were not supplied and are not invented; the licensing statement is based on the author's confirmation. The Zenodo metadata requests open access with no embargo.
 
 ## License and citation
 
-The existing MIT software license is retained. It does not license third-party photographs. `CITATION.cff` provides software attribution; the paper authors are identified above. `.zenodo.json` is preparation metadata only and does not mean a deposit has been created or published.
+Software: [MIT](LICENSE). Images, aggregate tables and accompanying research-material descriptions: [CC BY 4.0](LICENSE-IMAGES-CC-BY-4.0.md). `CITATION.cff` identifies the archive curator; the paper authors are listed above. Photo authorship is not inferred from curatorship. `.zenodo.json` supplies archival metadata and does not by itself establish that Zenodo has published a record.

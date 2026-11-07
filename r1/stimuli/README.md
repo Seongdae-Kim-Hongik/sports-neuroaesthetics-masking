@@ -1,4 +1,4 @@
-# Sports image stimuli — controlled-access archive
+# Sports image stimuli — public archive
 
 The author supplied **24 image files forming 12 distinct scene pairs** on 2026-11-07. Each pair contains a face-visible (`standard`) and face-masked (`faceless`) version. All files are 1056 × 1056 pixels. The file count agrees with the manuscript's description of 12 base images prepared in two versions. It does not independently verify presentation logs or trial order.
 
@@ -12,8 +12,8 @@ The author supplied **24 image files forming 12 distinct scene pairs** on 2026-1
 
 Pairs 01–06 match all 12 archived JPEG asset hashes exactly. Pairs 07–12 are newly supplied PNG pairs whose source filename stems are 1, 2, 3, 4, 6 and 9. Their linkage to acquisition/project records has not been independently verified. They are not silently substituted into analysis inputs or block-condition coding.
 
-## Access
+## Access and license
 
-The GitHub repository is private. Do not publish a public release or enable automatic GitHub–Zenodo archiving of the images. Zenodo deposit preparation specifies **restricted files**, no automatic embargo expiry, with access granted only after review by a corresponding author. No Zenodo record or DOI has yet been created.
+The 24 files are publicly shared under **CC BY 4.0**, on the corresponding author's confirmation of licensing authority. No application or approval is needed for download. See `RIGHTS.md`, `ACCESS_POLICY.md`, and the root `LICENSE-IMAGES-CC-BY-4.0.md`. Software has a separate MIT license.
 
-Requests should describe the intended research use and be sent to Seongdae Kim, kimsd@hongik.ac.kr; co-corresponding author Seungbeom Kim, sbkim@hongik.ac.kr. Approval of file access does not confer copyright or unrestricted reuse rights. See `ACCESS_POLICY.md` and `RIGHTS.md`.
+Original photographic source URLs and creator credits have not been supplied and are not guessed. The preserved six-pair manifest is retained as historical provenance; the current `stimulus_manifest.csv` describes all 12 pairs in this release.

@@ -1,6 +1,6 @@
 # Revision analysis files
 
-This local review bundle contains the survey and eye analysis and aggregate results. It has not been publicly deposited. Raw participant records, identity crosswalks, and image binaries are excluded.
+This folder contains the released survey and eye analysis code and aggregate results. Raw participant records and identity crosswalks are excluded. The 24 image files are available separately in `../stimuli/images/`. Software is MIT-licensed; aggregate tables and stimulus materials are CC BY 4.0.
 
 ## Reproduce the survey and eye results
 
@@ -21,6 +21,6 @@ The long-input columns are ID, Group, Condition (Standard/Faceless), Metric, Val
 
 ## Stimuli and fNIRS
 
-`stimulus_manifest.csv` and `STIMULUS_AVAILABILITY.md` identify the preserved project assets and explain the unverified redistribution permissions. The validation checklist is Supplementary Appendix B.
+`stimulus_manifest.csv` is the original 12-asset/six-pair project inventory. `../stimuli/stimulus_manifest.csv` covers the current 24-file/12-pair release, including the author-confirmed CC BY 4.0 license. `STIMULUS_AVAILABILITY.md` explains this provenance distinction. The validation checklist is Supplementary Appendix B.
 
 `fnirs_original_HbO_all_ROIs.csv` and `fnirs_original_descriptives.json` are transcribed archived Quest outputs, not outputs of this R script. The separately retained SNIRF reconstruction does not reproduce unknown original Quest settings. The original project, historical replacement counts, and matching ON/OFF outputs remain necessary to resolve the corresponding reviewer request.

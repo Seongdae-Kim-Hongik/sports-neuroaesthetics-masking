@@ -1,14 +1,7 @@
-# Controlled access to stimulus photographs
+# Public access
 
-## Decision and contact
+The author changed the access instruction from restricted to public on 7 November 2026 and confirmed authority to license all 24 images openly.
 
-The corresponding author reviews requests before granting access. Contact Seongdae Kim (kimsd@hongik.ac.kr), or co-corresponding author Seungbeom Kim (sbkim@hongik.ac.kr), with your name, institution and intended research use. Access is conditional on the applicable rights and permissions for the photographs. No automatic approval, blanket reuse license or onward redistribution permission is provided by this archive.
+The GitHub archive and its image files are intended for public download without a corresponding-author approval step. The Zenodo release metadata specifies **open** access without an embargo. Images and research materials: CC BY 4.0. Software: MIT. Follow the respective license terms; contact is not a prerequisite for reuse.
 
-## Repository settings
-
-- GitHub: keep the repository **private**. Do not make it public or invite recipients without corresponding-author approval. File access follows repository membership; it is not possible to make a folder private inside a public repository.
-- Zenodo: publish metadata only with the files set to **Restricted**. Do not apply an embargo that will automatically make files public. Enable access requests for authenticated users. Review requests individually and approve only after corresponding-author agreement and any applicable rights checks. Avoid open guest/secret links.
-- A published Zenodo title, description and DOI remain public. A restricted deposit is not a completely invisible record.
-- Access already granted can be revoked for future downloads; this cannot recall copies already downloaded.
-
-Status: settings above are the required deposit configuration, not a claim that a Zenodo record has already been published.
+Questions about the archive may be directed to Seongdae Kim (kimsd@hongik.ac.kr) or Seungbeom Kim (sbkim@hongik.ac.kr). A Zenodo DOI is listed in the repository only after a published record is verified.

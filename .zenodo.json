@@ -1,7 +1,7 @@
 {
-  "title": "Facial-Cue Removal in Sport: R1 analysis code and controlled-access stimulus archive",
+  "title": "Facial-Cue Removal in Sport: R1 Analysis Code and Stimuli",
   "upload_type": "dataset",
-  "access_right": "restricted",
+  "access_right": "open",
   "creators": [
     {
       "name": "Kim, Seongdae",
@@ -16,6 +16,14 @@
     "questionnaire",
     "revision analysis"
   ],
-  "description": "Preparation package for Frontiers in Human Neuroscience manuscript 1960815: R1 analysis code, aggregate results and 24 image files forming 12 Standard/Faceless scene pairs. All images are 1056 by 1056 pixels. Twelve JPEG files match the historical B-task project assets exactly; twelve PNG files were newly supplied by the author on 2026-11-07. The image count matches the manuscript; historical presentation order and linkage of the additional PNG files to acquisition records have not been independently verified. Files require controlled access with corresponding-author approval. Photograph source and rights documents have not been supplied; images are excluded from the MIT software license. Raw participant observations are not included. Original Quest processing reproduction remains incomplete. This preparation metadata does not assert a published record or DOI.",
-  "access_conditions": "Contact corresponding author Seongdae Kim (kimsd@hongik.ac.kr), or Seungbeom Kim (sbkim@hongik.ac.kr), with name, institution and intended research use. Access is granted only after corresponding-author approval and subject to applicable photograph rights. No onward redistribution permission is implied."
+  "description": "<p>Research-material release for Frontiers in Human Neuroscience manuscript 1960815, <em>Facial-Cue Removal and Spectators’ Emotional and Aesthetic Experience in Sport: A Cognitive Neurophysiological Perspective</em>.</p><p>Contains R1 survey/eye analysis code, aggregate results, reproduction documentation and 24 stimulus image files forming 12 Standard–Faceless pairs. All images are 1056 by 1056 pixels. Twelve JPEG files match the preserved B-task project hashes; twelve PNG files were additionally supplied by the author on 7 November 2026. Filenames, pair mappings and checksums are provided. The file count matches the manuscript; presentation order and project linkage of the added PNG files have not been independently reconstructed.</p><p>Images, aggregate tables and research-material descriptions are CC BY 4.0 on the corresponding author's explicit confirmation of licensing authority. Software retains its MIT license. No access approval is required. Original photographic source URLs and creator credits were not supplied and have not been invented; the archive creator is the curator, not necessarily the photographer.</p><p>Raw participant observations and identity crosswalks are excluded. Archived fNIRS tables are transcribed original Quest outputs, not a reproduced same-settings sensitivity analysis. Original Quest substitution counts and matching ON/OFF outputs remain unverified. Historical scripts in legacy/ are retained for provenance and are not the R1 pipeline. This material release is not a claim that all manuscript revision requests have been resolved.</p>",
+  "license": "cc-by-4.0",
+  "version": "r1-materials-v1.0.0",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/Seongdae-Kim-Hongik/sports-neuroaesthetics-masking",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
 }

@@ -1,17 +1,9 @@
-# R1 preparation — 7 November 2026
+# R1 materials v1.0.0 — 7 November 2026
 
-- Current survey/eye analysis and aggregate outputs copied from the locally verified R1 review package.
-- Historical scripts moved to `legacy/`; they are not the revised workflow.
-- Current questionnaire referents and single-choice cue procedure described accurately.
-- Existing 12 image assets listed as six archived pairs, without changing the manuscript's 12-base-image / 24-version statement.
-- No image binary, raw participant observations, receipt, private source path or credential included.
-- Image/source material from the author, original Quest checks and final release description remain pending.
-- No release tag, public visibility change, DOI or published Zenodo record created by these files.
-
-## 2026-11-07 — author-supplied images and controlled access
-
-- Added 24 byte-preserved images / 12 Standard–Faceless pairs with ASCII filenames, source-name mapping, SHA-256 hashes and historical-asset matches.
-- Recovered six additional PNG pairs; the earlier six-pair inventory remains for provenance. No analysis inputs or trial coding were altered.
-- Author requests a private GitHub archive and restricted Zenodo files, with access only after corresponding-author approval.
-- MIT remains a software license only. No image license or source attribution is invented.
-- No Zenodo record/DOI/public release is claimed.
+- Public research-material release: 24 byte-preserved images forming 12 Standard–Faceless pairs, all 1056×1056, with ASCII filenames, checksums and a source-name mapping.
+- Analysis code: MIT. Images, aggregate tables and research-material descriptions: CC BY 4.0, on the author's explicit confirmation of authority to license the photographs openly.
+- No corresponding-author access approval or embargo. This supersedes the earlier restricted-access preparation.
+- Current survey/eye code and numerical outputs are unchanged; documentation now points to the complete 24-file image archive. Raw participant records are not released.
+- Historical scripts remain under `legacy/` and must not be treated as the revised analysis.
+- Original Quest processing reproduction and substitution-frequency checks remain incomplete. The author-supplied PNG images are not treated as independent proof of historical presentation order.
+- Zenodo automatic archival is requested through the pre-existing repository integration; a DOI will be reported only after verification.
