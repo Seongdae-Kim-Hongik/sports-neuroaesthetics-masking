@@ -4,7 +4,7 @@ Research manuscript: **Facial-Cue Removal and Spectators’ Emotional and Aesthe
 
 Paper authors: Jaeho Lee, Jaechang Cha, Chunghun Ha, Yooneun Lee, Seungbeom Kim, and Seongdae Kim.
 
-This repository provides R1 survey/eye analysis code, aggregate results, and 24 stimulus image files (12 Standard–Faceless pairs). It is a research-material release, not a claim that all revision requests or original Quest-processing checks have been completed. The Zenodo DOI will be linked after automatic archival is verified.
+This repository provides R1 survey/eye analysis code, aggregate results, and 24 stimulus image files (12 Standard–Faceless pairs). It is a research-material release, not a claim that all revision requests or original Quest-processing checks have been completed. The versioned archive is available on Zenodo: [10.5281/zenodo.24035192](https://doi.org/10.5281/zenodo.24035192) (r1-materials-v1.0.0).
 
 ## Current analysis
 
@@ -18,8 +18,8 @@ Archived fNIRS tables are transcriptions from Quest output. The original Quest p
 
 The author-supplied archive now contains **24 image files / 12 distinct Standard–Faceless pairs**, matching the manuscript's stated image count. See [r1/stimuli/README.md](r1/stimuli/README.md) and the filename/hash manifest. Twelve JPEG files match the historical B-task project exactly; the twelve additional PNG files are retained as newly supplied material. This does not independently verify their historical presentation order or project linkage.
 
-The corresponding author authorized **public access** and confirmed authority to release all 24 images under **CC BY 4.0**. No request or corresponding-author approval is required to download the released materials. Original photographic source URLs and credits were not supplied and are not invented; the licensing statement is based on the author's confirmation. The Zenodo metadata requests open access with no embargo.
+The corresponding author authorized **public access** and confirmed authority to release all 24 images under **CC BY 4.0**. No request or corresponding-author approval is required to download the released materials. Original photographic source URLs and credits were not supplied and are not invented; the licensing statement is based on the author's confirmation. The published Zenodo archive is open and can be downloaded without login.
 
 ## License and citation
 
-Software: [MIT](LICENSE). Images, aggregate tables and accompanying research-material descriptions: [CC BY 4.0](LICENSE-IMAGES-CC-BY-4.0.md). `CITATION.cff` identifies the archive curator; the paper authors are listed above. Photo authorship is not inferred from curatorship. `.zenodo.json` supplies archival metadata and does not by itself establish that Zenodo has published a record.
+Software: [MIT](LICENSE). Images, aggregate tables and accompanying research-material descriptions: [CC BY 4.0](LICENSE-IMAGES-CC-BY-4.0.md). `CITATION.cff` identifies the archive curator; the paper authors are listed above. Photo authorship is not inferred from curatorship. The DOI above identifies the published archive for this release.

@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "Please cite this research-material archive; use the Zenodo DOI when available."
+message: "Please cite the versioned Zenodo archive."
 type: dataset
 title: "Facial-Cue Removal in Sport: R1 Analysis Code and Stimuli"
 authors:
@@ -12,3 +12,4 @@ license:
 version: "r1-materials-v1.0.0"
 date-released: "2026-11-07"
 repository-code: "https://github.com/Seongdae-Kim-Hongik/sports-neuroaesthetics-masking"
+doi: "10.5281/zenodo.24035192"
