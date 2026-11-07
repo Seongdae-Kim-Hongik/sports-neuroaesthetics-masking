@@ -1,8 +1,7 @@
 {
-  "title": "Facial-Cue Removal and Spectators’ Emotional and Aesthetic Experience in Sport: R1 analysis code and material inventory",
-  "upload_type": "software",
-  "access_right": "open",
-  "license": "MIT",
+  "title": "Facial-Cue Removal in Sport: R1 analysis code and controlled-access stimulus archive",
+  "upload_type": "dataset",
+  "access_right": "restricted",
   "creators": [
     {
       "name": "Kim, Seongdae",
@@ -17,5 +16,6 @@
     "questionnaire",
     "revision analysis"
   ],
-  "description": "Preparation version of survey/eye revision analysis code, aggregate results, and a stimulus asset inventory for manuscript 1960815. No raw participant observations or stimulus image binaries are included. The preserved B-task inventory contains 12 assets (six scene pairs), while the manuscript describes 12 base images each in two versions; reconciliation and source/redistribution material are pending. Archived fNIRS tables are not new original-Quest sensitivity results. MIT applies to software; photographs require separate applicable terms. This metadata file does not assert that a Zenodo record has been published."
+  "description": "Preparation package for Frontiers in Human Neuroscience manuscript 1960815: R1 analysis code, aggregate results and 24 image files forming 12 Standard/Faceless scene pairs. All images are 1056 by 1056 pixels. Twelve JPEG files match the historical B-task project assets exactly; twelve PNG files were newly supplied by the author on 2026-11-07. The image count matches the manuscript; historical presentation order and linkage of the additional PNG files to acquisition records have not been independently verified. Files require controlled access with corresponding-author approval. Photograph source and rights documents have not been supplied; images are excluded from the MIT software license. Raw participant observations are not included. Original Quest processing reproduction remains incomplete. This preparation metadata does not assert a published record or DOI.",
+  "access_conditions": "Contact corresponding author Seongdae Kim (kimsd@hongik.ac.kr), or Seungbeom Kim (sbkim@hongik.ac.kr), with name, institution and intended research use. Access is granted only after corresponding-author approval and subject to applicable photograph rights. No onward redistribution permission is implied."
 }

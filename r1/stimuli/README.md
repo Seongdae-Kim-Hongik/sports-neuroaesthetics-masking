@@ -1,9 +1,19 @@
-# Stimulus archive inventory — pending complete release
+# Sports image stimuli — controlled-access archive
 
-The manuscript currently describes 12 base images, each in Standard and Faceless versions: 24 image versions (12 pairs) and 24 presentations per participant.
+The author supplied **24 image files forming 12 distinct scene pairs** on 2026-11-07. Each pair contains a face-visible (`standard`) and face-masked (`faceless`) version. All files are 1056 × 1056 pixels. The file count agrees with the manuscript's description of 12 base images prepared in two versions. It does not independently verify presentation logs or trial order.
 
-The preserved B-task project inventory currently identifies 12 image assets: six Standard and six Faceless assets grouped into six named scene pairs. This is the inventory recovered from the project, not a claim that the manuscript describes six pairs or that it is the complete administered set. The count reconciliation remains deferred pending the author's additional material.
+## Files and names
 
-The manifest preserves asset identifiers, archived names, dimensions and SHA-256 digests. `archived_pairs.csv` groups those existing identifiers; no missing image or additional pair has been invented.
+`images/pairNN_scene_condition.ext` uses pair IDs 01–12, a descriptive scene label and the condition. Pair numbering is an archive index, **not presentation order**. Scene labels describe the visible activity and are not an experimental factor. Original bytes and formats are retained; JPEG `.jpeg` suffixes are normalized to `.jpg` without re-encoding. No image was edited, resampled or recompressed.
 
-No stimulus image binaries are included in this preparation branch. Original image files, source URLs and applicable redistribution terms are pending from the author. The software MIT license does not grant permission to redistribute third-party photographs.
+- `stimulus_manifest.csv`: all 24 files, original-to-new filename mapping, dimensions, byte counts, SHA-256 hashes, decoded-RGB hashes, historical project matches and provenance status.
+- `stimulus_pairs.csv`: explicit Standard/Faceless pairs.
+- `archived_asset_manifest.csv` and `archived_pairs.csv`: the earlier 12-asset/six-pair project inventory, retained for provenance.
+
+Pairs 01–06 match all 12 archived JPEG asset hashes exactly. Pairs 07–12 are newly supplied PNG pairs whose source filename stems are 1, 2, 3, 4, 6 and 9. Their linkage to acquisition/project records has not been independently verified. They are not silently substituted into analysis inputs or block-condition coding.
+
+## Access
+
+The GitHub repository is private. Do not publish a public release or enable automatic GitHub–Zenodo archiving of the images. Zenodo deposit preparation specifies **restricted files**, no automatic embargo expiry, with access granted only after review by a corresponding author. No Zenodo record or DOI has yet been created.
+
+Requests should describe the intended research use and be sent to Seongdae Kim, kimsd@hongik.ac.kr; co-corresponding author Seungbeom Kim, sbkim@hongik.ac.kr. Approval of file access does not confer copyright or unrestricted reuse rights. See `ACCESS_POLICY.md` and `RIGHTS.md`.

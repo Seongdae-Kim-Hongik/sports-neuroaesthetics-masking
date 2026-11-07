@@ -1,7 +1,7 @@
-# Image source and redistribution record
+# Photograph rights and provenance
 
-Status: author has authorized preparation for GitHub/Zenodo and will supply image/source material. No per-image permission is inferred from that authorization.
+The author supplied the 24 image files and instructed controlled access through a private GitHub repository and a restricted Zenodo deposit. Source URLs, photographer/provider attribution and per-image license documents were not included in this delivery. No specific ownership, license or redistribution permission has been inferred.
 
-For each supplied image, record the source URL or stock asset ID, creator/provider, applicable license or permission document, permitted redistribution of the original and masked derivative, and any required attribution. Match files to the preserved asset hashes and clarify which versions/pairs correspond to the submitted manuscript.
+Photographs and masked derivatives are **excluded from the repository's MIT software license**. Their existing rights remain with their respective rights holders. Access approval by a corresponding author is not itself a copyright license and does not replace any permission required from a rights holder. Do not redistribute photographs onward or assign a Creative Commons license to them without documenting the applicable rights.
 
-Keep purchase receipts and private account details in the local evidence folder; put only the necessary public attribution and terms in the released record. Each photograph retains its applicable terms. Software MIT licensing is not applied to photographs.
+`stimulus_manifest.csv` has separate source and rights-documentation fields. These remain unverified, rather than filled with guessed URLs or permissions. Private purchase receipts should remain outside the repository; record only the necessary attribution and applicable terms when available.

@@ -16,3 +16,7 @@ inputs_private/
 .RData
 .Rproj.user/
 .DS_Store
+
+# Author-approved images, only in this private repository.
+!r1/stimuli/images/*.jpg
+!r1/stimuli/images/*.png

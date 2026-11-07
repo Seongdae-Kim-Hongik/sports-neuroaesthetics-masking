@@ -16,7 +16,9 @@ Archived fNIRS tables are transcriptions from Quest output. The original Quest p
 
 ## Stimulus materials
 
-See [r1/stimuli/README.md](r1/stimuli/README.md) for the recovered 12-asset/six-pair inventory and its distinction from the manuscript's 12-base-image/24-version description. Photographs and per-image source/redistribution documentation are pending from the author. No complete stimulus-set release is claimed.
+The author-supplied archive now contains **24 image files / 12 distinct Standard–Faceless pairs**, matching the manuscript's stated image count. See [r1/stimuli/README.md](r1/stimuli/README.md) and the filename/hash manifest. Twelve JPEG files match the historical B-task project exactly; the twelve additional PNG files are retained as newly supplied material. This does not independently verify their historical presentation order or project linkage.
+
+Images are stored in this **private repository** at the author's request. Access requires corresponding-author approval and compliance with applicable image rights. The Zenodo package is prepared for **restricted file access**; metadata and DOI will be public if it is published. No automatic embargo expiry or public image release is intended. Source/rights documents remain unverified.
 
 ## License and citation
 
